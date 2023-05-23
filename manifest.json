@@ -1,0 +1,13 @@
+{
+    "name":"Proctor",
+    "description":"An online proctoring system",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"eye.png"
+    },
+    "icons":{
+        "128":"eye.png"
+    }
+}
